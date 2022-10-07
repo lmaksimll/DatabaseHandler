@@ -1,0 +1,139 @@
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.exe
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.deps.json
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.runtimeconfig.json
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.runtimeconfig.dev.json
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.pdb
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.AssemblyReference.cache
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.AssemblyInfoInputs.cache
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.AssemblyInfo.cs
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.CoreCompileInputs.cache
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.dll
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.pdb
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.genruntimeconfig.cache
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DateBase\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DateBase\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.CopyComplete
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.exe
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.deps.json
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.runtimeconfig.json
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.runtimeconfig.dev.json
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.pdb
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.AssemblyReference.cache
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.AssemblyInfoInputs.cache
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.AssemblyInfo.cs
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.CoreCompileInputs.cache
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.CopyComplete
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.dll
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.pdb
+E:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.genruntimeconfig.cache
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.exe
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.deps.json
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.runtimeconfig.json
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.runtimeconfig.dev.json
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.pdb
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\ZstdNet.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.AssemblyReference.cache
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.AssemblyInfoInputs.cache
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.AssemblyInfo.cs
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.CoreCompileInputs.cache
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.CopyComplete
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.dll
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.pdb
+F:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.genruntimeconfig.cache
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.exe
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.deps.json
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.runtimeconfig.json
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.runtimeconfig.dev.json
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\DateBase2.pdb
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.AssemblyReference.cache
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.AssemblyInfoInputs.cache
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.AssemblyInfo.cs
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.CoreCompileInputs.cache
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.csproj.CopyComplete
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.dll
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.pdb
+D:\Базы данных 4 сем\лаб6\DateBase2\DateBase2\obj\Debug\netcoreapp3.1\DateBase2.genruntimeconfig.cache
